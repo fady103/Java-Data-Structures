@@ -34,5 +34,10 @@
 ## 🚀 How to Use | طريقة الاستخدام
 
 ```bash
+cd Data-Structures-Folder-Name
+```
+
+```bash
 javac Main.java
 java Main
+```
